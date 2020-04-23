@@ -19,6 +19,10 @@ I always wanted to try out [Lottie from airbnb](https://airbnb.io/lottie/#/). No
 
 ## Requirements
 
+```sh
+pod install
+```
+
 - iOS 13.0+
 - Xcode 11
 
