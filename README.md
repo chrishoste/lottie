@@ -3,7 +3,7 @@
 > This was created during my [quarantine challenges](https://github.com/chrishoste/quarantine-challenge). Check out the more stuff I did during this time.
 
 ## Challenge
-I always wanted to try out [Lottie from airbnb](https://airbnb.io/lottie/#/). Now I finally did it and made my own `mini` animation with Illustrator (AI) and After Effects (AE). 
+I always wanted to try out [Lottie from airbnb](https://airbnb.io/lottie/#/). Now I finally did it and made my own `mini` animation with Illustrator (AI) and After Effects (AE). Check it out on [Lottiefiels](https://lottiefiles.com/share/8GgtAc).
 
 ## My final implementation
 ### Screenshots/Gif's
